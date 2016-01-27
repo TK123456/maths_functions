@@ -7,7 +7,7 @@ int main()
 	printf("%i + %i = %i\n", x, y, x+y); //adds X + Y test
 	printf("%i - %i = %i\n", x, y, x-y); //Subtracts X-Y
 	printf("%i * %i = %i\n", x, y, x*y); //Multiplies X*Y
-	printf("%i / %i = %i\n", x, y, x/y); //Divides X/Y
+	printf("%i / %i = %i\n", x, y, x/y); //divides X/Y
 	printf("%i remainder %i = %i\n", x, y, x%y); //Testing the remainder function
 	return 0;
 	
