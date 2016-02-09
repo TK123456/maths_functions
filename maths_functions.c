@@ -1,5 +1,5 @@
 #include <stdio.h> //This is the line causing issue in the conflict branch
-//This program calculates the sum of x + y
+//This is the second line in the conflict branch
 int main()
 {
 
