@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //This is the line causing issue in the conflict branch
 //This program calculates the sum of x + y
 int main()
 {
