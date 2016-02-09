@@ -11,3 +11,21 @@ int main()
     printf ("%i remainder %i = %i\n", x, y, x%y); //Remainder of x and y
     return 0;
 }
+
+float min (float x, float y)
+{
+    if ( x > y)
+    	    return y;
+    else 
+    	    return x;
+}
+float max (float x, float y)
+{
+    if ( y > x)
+    	    return y;
+    else 
+    	    return x;
+    
+}
+
+
