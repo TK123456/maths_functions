@@ -1,7 +1,6 @@
 #include <stdio.h> //This is the line causing issue in the master branch
 #include <stdio.h> //This is the second line causing issue in the master branch
 
-//This program calculates the sum of x + y
 int main()
 {
 
